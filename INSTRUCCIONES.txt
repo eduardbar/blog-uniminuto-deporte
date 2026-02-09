@@ -1,0 +1,161 @@
+===============================================================================
+INSTRUCCIONES PARA VISUALIZAR TU BLOG
+Blog UNIMINUTO - Proyecto Social de Formación
+===============================================================================
+
+¡FELICIDADES! Tu blog ahora incluye la tercera entrada con todo el contenido
+de la segunda parte del proyecto sobre Desarrollo Sostenible y los ODS.
+
+===============================================================================
+OPCIÓN 1: ABRIR LOCALMENTE (Recomendado para revisar)
+===============================================================================
+
+1. Navega a la carpeta:
+   C:\Users\eduar\OneDrive\Escritorio\Universidad\blog-uniminuto-deporte
+
+2. Haz doble clic en el archivo: index.html
+
+3. El blog se abrirá en tu navegador predeterminado
+
+
+===============================================================================
+OPCIÓN 2: PUBLICAR EN VERCEL (Recomendado para compartir)
+===============================================================================
+
+Tu proyecto ya está configurado con Vercel. Para publicar los cambios:
+
+1. Abre una terminal en la carpeta del proyecto:
+   cd C:\Users\eduar\OneDrive\Escritorio\Universidad\blog-uniminuto-deporte
+
+2. Verifica el estado de Git:
+   git status
+
+3. Agrega los cambios:
+   git add .
+
+4. Crea un commit:
+   git commit -m "Agregar tercera entrada: Desarrollo Sostenible y ODS"
+
+5. Sube los cambios:
+   git push origin master
+
+6. Vercel detectará automáticamente los cambios y publicará tu blog actualizado
+
+
+===============================================================================
+CONTENIDO DE LA TERCERA ENTRADA
+===============================================================================
+
+La nueva entrada incluye:
+
+✅ Título: "Del Sedentarismo a la Acción: Construyendo Bienestar Universitario"
+✅ Introducción sobre desarrollo sostenible (Arenas de Mesa, Jiménez Herrero)
+✅ Los 3 principios fundamentales del proyecto
+✅ Actividad 1: Análisis Profundo de la Problemática (Semana 3)
+   - Metodología en 4 fases
+   - Resultados obtenidos
+   - Reflexión sobre ODS 3, 4, 10 y 17
+✅ Actividad 2: Diseño de Contenidos Pedagógicos (Semana 4)
+   - Estructura del recurso interactivo en 5 bloques
+   - Justificación del uso de Genially
+   - Resultados obtenidos
+   - Reflexión sobre ODS 3, 4, 10
+✅ Sección de integración con desarrollo sostenible
+✅ Elementos multimedia del proyecto
+✅ Conclusión con compromiso formativo
+✅ Referencias bibliográficas
+
+
+===============================================================================
+NAVEGACIÓN DEL BLOG
+===============================================================================
+
+El menú de navegación ahora incluye:
+
+1. Contexto - Entrada 01: El deporte como puente hacia una formación
+2. Problemática - Entrada 02: El sedentarismo silencioso
+3. Desarrollo Sostenible - Entrada 03: Del sedentarismo a la acción (¡NUEVA!)
+4. Sobre el Proyecto - Información institucional
+
+
+===============================================================================
+CARACTERÍSTICAS DE LA NUEVA ENTRADA
+===============================================================================
+
+• Diseño coherente con las entradas anteriores
+• Uso de componentes visuales existentes (cards, boxes, grids)
+• Integración de iconos relacionados con ODS
+• Estructura clara y fácil de leer
+• Responsive (se adapta a móviles y tablets)
+• Animaciones al hacer scroll
+• Formato académico pero accesible
+
+
+===============================================================================
+PRÓXIMOS PASOS SUGERIDOS
+===============================================================================
+
+1. Revisa el blog localmente para verificar que todo se vea bien
+2. Si necesitas hacer ajustes, edita el archivo index.html
+3. Toma capturas de pantalla para tu evidencia
+4. Publica en Vercel siguiendo los pasos de la Opción 2
+5. Comparte el link de Vercel con tu profesor
+
+
+===============================================================================
+ELEMENTOS MULTIMEDIA A CONSIDERAR
+===============================================================================
+
+Para enriquecer aún más tu entrada, considera agregar:
+
+📊 Infografías:
+   - Causas y efectos del sedentarismo
+   - Guía multidimensional (local, nacional, global)
+   - Conexión con los 17 ODS
+
+🎥 Videos:
+   - Explicación de tu metodología
+   - Testimonial personal sobre el aprendizaje
+   - Presentación de la Fundación Deportiva UNIMINUTO
+
+🖼️ Imágenes:
+   - Capturas del recurso en Genially
+   - Fotos de estudiantes practicando tenis de mesa
+   - Diagramas de flujo del proceso
+
+🔗 Enlaces:
+   - Link al recurso interactivo en Genially
+   - PDF del documento de análisis completo
+   - Artículos de Arenas de Mesa y Jiménez Herrero
+
+
+===============================================================================
+SOPORTE TÉCNICO
+===============================================================================
+
+Si encuentras algún problema:
+
+1. Verifica que los archivos index.html, styles.css y script.js estén
+   en la misma carpeta
+
+2. Asegúrate de que tu navegador esté actualizado
+
+3. Si el blog no se ve bien en móviles, actualiza la página (Ctrl + F5)
+
+4. Para problemas con Git/Vercel, verifica tu conexión a internet
+
+
+===============================================================================
+¡ÉXITO CON TU PROYECTO!
+===============================================================================
+
+Has completado exitosamente la segunda parte de tu Proyecto Social de Formación.
+Tu blog ahora documenta de manera profesional y completa tu trabajo, integrando
+los conceptos de desarrollo sostenible y los ODS.
+
+¡Mucho éxito en la presentación! 🚀🏓
+
+- Eduard David Barrera Manrique
+- Proyecto Social de Formación UNIMINUTO
+- Febrero 2026
+===============================================================================
